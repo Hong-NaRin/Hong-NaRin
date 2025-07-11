@@ -2,16 +2,14 @@
 
 <br>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-  <tr>
-    <td style="border:none;">
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />
-    </td>
-    <td valign="middle" style="padding-left:10px; border:none;">
-      <h3 style="margin:0; font-weight:bold;">Hello, welcome to my GitHub!</h3>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" style="vertical-align: middle;" />
+  <span style="display: inline-block; vertical-align: middle; font-size: 28px; font-weight: bold; margin-left: 10px;">
+    <strong>Hello, welcome to my GitHub!</strong>
+  </span>
+</p>
+
+<br><br><br>
 
 <h2 align="center">🛠  기술 스택  🛠 </h2>
 
