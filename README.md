@@ -42,4 +42,9 @@
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/>
 </p>
 
+<br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hong-NaRin&show_icons=true&theme=light" width="350" style="display: inline-block; margin-right: 15px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hong-NaRin&layout=compact&theme=light" width="200" style="display: inline-block;" />
+</p>
 
