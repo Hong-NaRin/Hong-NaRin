@@ -9,7 +9,7 @@
   </span>
 </p>
 
-<br><br><br>
+<br><br>
 
 <h2 align="center">🛠  기술 스택  🛠 </h2>
 
